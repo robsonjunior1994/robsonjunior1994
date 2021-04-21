@@ -1,3 +1,8 @@
+ [![Linkedin Badge](https://img.shields.io/badge/-Robson_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonjunior1994//)](https://www.linkedin.com/in/robsonjunior1994/) [![Gmail Badge](https://img.shields.io/badge/-robsonjunior1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsonjunior1994@gmail.com)](mailto:robsonjunior1994@gmail.com)
+ 
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonjunior1994&theme=dark)](https://github.com/robsonjunior1994/github-readme-stats)
+ ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonjunior1994&layout=compact&theme=dark)
+
 ### Olá 👋, meu nome é Robson 😄
 
 <!--
@@ -14,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#SOBRE
 
 Tenho 27 anos, faço Análise de Sistemas na Faculdade Estácio de Sá. Busco minha primeira experiência como desenvolvedor .NET. Para isso estou estudando há algum tempo sozinho e por vezes de forma coletiva, interagindo com amigos da área. Tenho alguns projetos aqui no meu github e atualmente estudo C#, .NET, SQL, API e também já tive uma primeira experiência com MongoDB. Meus últimos projetos têm sido em WEB API, contudo possuo também conhecimento de MVC, faço uso do ORM Entity Framework. Venho tentando me esforçar para aprender e seguir as boas práticas de Clean code e os designs patterns como, SOLID. Sempre me empenho para melhorar a qualidade dos meus códigos, aplicando testes unitários visando assim alcançar resultados melhores.
