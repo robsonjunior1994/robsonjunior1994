@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋, meu nome é Robson 😄
 
 <!--
 **robsonjunior1994/robsonjunior1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Tenho 27 anos, faço Análise de Sistemas na Faculdade Estácio de Sá. Busco minha primeira experiência como desenvolvedor .NET. Para isso estou estudando há algum tempo sozinho e por vezes de forma coletiva, interagindo com amigos da área. Tenho alguns projetos aqui no meu github e atualmente estudo C#, .NET, SQL, API e também já tive uma primeira experiência com MongoDB. Meus últimos projetos têm sido em WEB API, contudo possuo também conhecimento de MVC, faço uso do ORM Entity Framework. Venho tentando me esforçar para aprender e seguir as boas práticas de Clean code e os designs patterns como, SOLID. Sempre me empenho para melhorar a qualidade dos meus códigos, aplicando testes unitários visando assim alcançar resultados melhores.
